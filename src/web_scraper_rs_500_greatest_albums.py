@@ -60,13 +60,11 @@ t_start = time()
 # 1. WEB SCRAPING
 #==============================================================================
 path_dir = os.getcwd()
-
 pages = ["arcade-fire-%ef%bb%bffuneral-1062733","linda-mccartney-and-paul-ram-1062783",\
          "the-go-gos-beauty-and-the-beat-1062833","stevie-wonder-music-of-my-mind-2-1062883",\
          "shania-twain-come-on-over-1062933","buzzcocks-singles-going-steady-2-1062983",\
          "sade-diamond-life-1063033","bruce-springsteen-nebraska-3-1063083",\
          "the-band-music-from-big-pink-2-1063133","jay-z-the-blueprint-3-1063183"]
-    
 df_rs_album_list = extract_album_attributes(pages)
 
 #==============================================================================
