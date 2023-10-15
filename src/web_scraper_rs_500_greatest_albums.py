@@ -60,13 +60,11 @@ t_start = time()
 # 1. WEB SCRAPING
 #==============================================================================
 path_dir = os.getcwd()
-
 pages = ["arcade-fire-%ef%bb%bffuneral-1062733","linda-mccartney-and-paul-ram-1062783",\
          "the-go-gos-beauty-and-the-beat-1062833","stevie-wonder-music-of-my-mind-2-1062883",\
          "shania-twain-come-on-over-1062933","buzzcocks-singles-going-steady-2-1062983",\
          "sade-diamond-life-1063033","bruce-springsteen-nebraska-3-1063083",\
          "the-band-music-from-big-pink-2-1063133","jay-z-the-blueprint-3-1063183"]
-    
 df_rs_album_list = extract_album_attributes(pages)
 
 #==============================================================================
@@ -83,8 +81,3 @@ df_rs_album_list.drop(columns=["title", "subtitle"], inplace = True)
 df_rs_album_list = df_rs_album_list[[i for i in df_rs_album_list.columns if i!=df_rs_album_list.columns[1]] + [df_rs_album_list.columns[1]]]
 df_rs_album_list.to_csv(f'{path_dir}/output/rs_album_list.csv', header=True, index=False, encoding='utf-8-sig',sep=';')
 print("...it has been successfully executed in %0.1fs." % (time() - t_start))
-
-# df_rs_album_list['count_apost'] = df_rs_album_list['title'].str.count('|'.join(['‘','’','”']))
-# df_rs_album_list['count_comma'] = df_rs_album_list['title'].str.count(',')
-# df_rs_album_list['test'] = df_rs_album_list.apply(lambda x: 1 if x.album == x.album_2 else 0, axis=1)
-# https://stackoverflow.com/questions/753052/strip-html-from-strings-in-python 
