@@ -1,6 +1,6 @@
 """
 Web Scraping: New York Times Books API
-Created on Sun Jan  8 20:17:27 2023
+Created on Sun Jan 8 20:17:27 2023
 @author: IvoBarros
 """
 import pandas as pd
@@ -15,7 +15,7 @@ import os.path
 
 #==============================================================================
 # To extract data of all hardcover fiction/nonfiction books for all the best 
-# sellers lists of New York Times of the previous 12 months
+# sellers lists of the New York Times of the previous 24 months
 #==============================================================================
 
 def nyt_api_response(date):
@@ -88,7 +88,7 @@ t_start = time()
 #==============================================================================
 path_dir = os.getcwd()
 master_list_dfs = list()
-list_dates = date_range(12)
+list_dates = date_range(24)
 
 for i in list_dates:
     list_dfs_temp = list()
