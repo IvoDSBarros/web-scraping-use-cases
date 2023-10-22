@@ -81,7 +81,3 @@ df_rs_album_list.drop(columns=['title', 'subtitle'], inplace = True)
 df_rs_album_list = df_rs_album_list[[i for i in df_rs_album_list.columns if i!=df_rs_album_list.columns[1]] + [df_rs_album_list.columns[1]]]
 df_rs_album_list.to_csv(f'{path_dir}/output/rs_album_list.csv', header=True, index=False, encoding='utf-8-sig',sep=';')
 print("...it has been successfully executed in %0.1fs." % (time() - t_start))
-
-# df1['count_apost'] = df1['title'].str.count('|'.join(['‘','’','”']))
-# df1['count_comma'] = df1['title'].str.count(',')
-# df1['test'] = df1.apply(lambda x: 1 if x.album == x.album_2 else 0, axis=1)
