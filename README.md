@@ -26,15 +26,16 @@ py script: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarr
 csv output: [top_20_highest_grossing_tours_of_all_time.csv](
 https://github.com/IvoDSBarros/web-scraping-use-cases/blob/abf65f957fbf1aee00f596609344f6a605f9d4a9/output/csv/top_20_highest_grossing_tours_of_all_time.csv)
 
-
-
-
 ## 2. JSON var-based extraction
-### "thegreatestbooks.org"
-To extract list of the greatest books of all time (n=300)
+### Website: [www.rollingstone.com](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)
+To extract the Rolling Stone list on the greatest albums of all time
 
-+	"en.wikipedia.org"
-To extract multiple wikipedia tables on the highest grossing concert tours of all time 
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/ffc13ea89d83d9c9091c16ed9b132c91dc7695d9/output/png/web_scraping_highest_rs_album_list.PNG)
+py script: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/248bbff34e979778b2bb6dfdfc508aae08632250/src/web_scraping_highest_grossing_tours.py)
+<br>
+csv output: [top_20_highest_grossing_tours_of_all_time.csv](
+https://github.com/IvoDSBarros/web-scraping-use-cases/blob/abf65f957fbf1aee00f596609344f6a605f9d4a9/output/csv/top_20_highest_grossing_tours_of_all_time.csv)
+
 
 ## 3. JSON API-response-based extraction
 ### "thegreatestbooks.org"
