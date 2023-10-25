@@ -14,8 +14,7 @@ To extract a list of the greatest books of all time (n=300)
 
 py script: [web_scraping_greatest_books.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/82f69120863f9d890964e995e16f823579f4a48d/src/web_scraping_greatest_books.py)
 <br>
-csv output: [top_20_highest_grossing_tours_of_all_time.csv](
-https://github.com/IvoDSBarros/web-scraping-use-cases/blob/abf65f957fbf1aee00f596609344f6a605f9d4a9/output/csv/top_20_highest_grossing_tours_of_all_time.csv)
+csv output: [the_greatest_books_of_all_time.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/af93556c11b9368bd50a047399c35576408f22bc/output/csv/the_greatest_books_of_all_time.csv)
 
 
 ### Website: [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
