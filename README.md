@@ -7,7 +7,7 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 3. [JSON API-response-based extraction](#3-json-api-response-based-extraction)
 
 ## 1. HTML tag-based extraction
-**Website**: [thegreatestbooks.org]([https://www.sciencedirect.com/science/article/pii/S2666651021000127](https://thegreatestbooks.org/))
+**Website**: [thegreatestbooks.org](https://thegreatestbooks.org/)
 
 To extract a list of the greatest books of all time (n=300)
 
