@@ -7,8 +7,7 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 3. [JSON API-response-based extraction](#3-json-api-response-based-extraction)
 
 ## 1. HTML tag-based extraction
-website: [thegreatestbooks.org](https://thegreatestbooks.org/)
-<br>
+### Website: [thegreatestbooks.org](https://thegreatestbooks.org/)
 py script: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/248bbff34e979778b2bb6dfdfc508aae08632250/src/web_scraping_highest_grossing_tours.py)
 <br>
 csv output: [top_20_highest_grossing_tours_of_all_time.csv](
