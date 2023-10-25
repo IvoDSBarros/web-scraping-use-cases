@@ -13,7 +13,8 @@ To extract a list of the greatest books of all time (n=300)
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/289dcf4a1c146182bb84335ecbeb0ed278f3943c/output/png/test_01.PNG)
 
 **List**
-![](cases/blob/1f9bb691e52e53a10cb95c668a92ebee2fac585e/output/png/web_scraping_the_greatest_books_list.PNG)
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/471b01c40da12924d810e1dd08d9c876e82c52d8/output/png/web_scraping_the_greatest_books_list.PNG)
+
 
 **en.wikipedia.org**
 To extract multiple wikipedia tables on the highest grossing concert tours of all time
