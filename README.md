@@ -52,7 +52,7 @@ To extract data of all hardcover fiction/nonfiction books for all the best selle
 <br> 
 py script: [web_scraping_nyt_api.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/f52b3112944609f1b15d3a92b395734c18000e27/src/web_scraping_nyt_api.py)
 <br>
-csv output: [rs_album_list.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/df881ee5834538e8acb4010b71c94cd879ea19e2/output/csv/rs_album_list.csv)
+csv output: [nyt_bestsellers_books.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/8d04fe6f4afa5465761eee5f4fd81df3d79f7b54/output/csv/nyt_bestsellers_books.csv)
 
 <div align = "right">    
   <a href="#overview">(back to top)</a>
