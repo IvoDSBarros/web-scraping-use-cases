@@ -10,7 +10,7 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 ### "thegreatestbooks.org"
 To extract list of the greatest books of all time (n=300)
 
-
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/289dcf4a1c146182bb84335ecbeb0ed278f3943c/output/png/test_01.PNG)
 
 +	"en.wikipedia.org"
 To extract multiple wikipedia tables on the highest grossing concert tours of all time
