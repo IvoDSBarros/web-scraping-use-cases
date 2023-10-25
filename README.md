@@ -8,13 +8,14 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 
 ## 1. HTML tag-based extraction
 ### Website: [thegreatestbooks.org](https://thegreatestbooks.org/)
+py script: [web_scraping_greatest_books.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/82f69120863f9d890964e995e16f823579f4a48d/src/web_scraping_greatest_books.py)
+<br>
+csv output: [the_greatest_books_of_all_time.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/af93556c11b9368bd50a047399c35576408f22bc/output/csv/the_greatest_books_of_all_time.csv)
+
 To extract a list of the greatest books of all time (n=300)
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/471b01c40da12924d810e1dd08d9c876e82c52d8/output/png/web_scraping_the_greatest_books_list.PNG)
 
-py script: [web_scraping_greatest_books.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/82f69120863f9d890964e995e16f823579f4a48d/src/web_scraping_greatest_books.py)
-<br>
-csv output: [the_greatest_books_of_all_time.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/af93556c11b9368bd50a047399c35576408f22bc/output/csv/the_greatest_books_of_all_time.csv)
 
 
 ### Website: [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
