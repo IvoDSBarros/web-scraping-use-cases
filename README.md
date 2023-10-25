@@ -48,7 +48,7 @@ csv output: [rs_album_list.csv](https://github.com/IvoDSBarros/web-scraping-use-
 ### Website: [developer.nytimes.com](https://developer.nytimes.com/docs/books-product/1/overview)
 To extract data of all hardcover fiction/nonfiction books for all the best sellers lists of the New York Times of the previous 24 months
 
-![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/ffc13ea89d83d9c9091c16ed9b132c91dc7695d9/output/png/web_scraping_highest_rs_album_list.PNG)
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/cbb256b66c6df1a4c45c3860120ba2fe3a905432/output/png/web_scraping_nyt_api_bestsellers_books.PNG)
 <br> 
 py script: [web_scraping_nyt_api.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/f52b3112944609f1b15d3a92b395734c18000e27/src/web_scraping_nyt_api.py)
 <br>
