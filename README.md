@@ -11,15 +11,13 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 
 To extract a list of the greatest books of all time (n=300)
 
-
-
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/471b01c40da12924d810e1dd08d9c876e82c52d8/output/png/web_scraping_the_greatest_books_list.PNG)
 
+### Website: [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
 
-### en.wikipedia.org
 To extract multiple wikipedia tables on the highest grossing concert tours of all time
 
-
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/dddf6808d9a33bf2a6a6377ab303e2ea74cc1948/output/png/web_scraping_highest_grossing_tours_list.PNG)
 
 ## 2. JSON var-based extraction
 ### "thegreatestbooks.org"
