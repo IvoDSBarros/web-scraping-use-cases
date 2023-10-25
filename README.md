@@ -26,6 +26,10 @@ py script: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarr
 csv output: [top_20_highest_grossing_tours_of_all_time.csv](
 https://github.com/IvoDSBarros/web-scraping-use-cases/blob/abf65f957fbf1aee00f596609344f6a605f9d4a9/output/csv/top_20_highest_grossing_tours_of_all_time.csv)
 
+<div align = "right">    
+  <a href="#overview">(back to top)</a>
+</div>
+
 ## 2. JSON var-based extraction
 ### Website: [www.rollingstone.com](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)
 To extract the Rolling Stone list on the greatest albums of all time
@@ -35,6 +39,10 @@ To extract the Rolling Stone list on the greatest albums of all time
 py script: [web_scraping_rs_500_greatest_albums.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/df881ee5834538e8acb4010b71c94cd879ea19e2/src/web_scraping_rs_500_greatest_albums.py)
 <br>
 csv output: [rs_album_list.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/df881ee5834538e8acb4010b71c94cd879ea19e2/output/csv/rs_album_list.csv)
+
+<div align = "right">    
+  <a href="#overview">(back to top)</a>
+</div>
 
 ## 3. JSON API-response-based extraction
 ### "thegreatestbooks.org"
