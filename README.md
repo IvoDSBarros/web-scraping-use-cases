@@ -8,7 +8,7 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 
 ## 1. HTML tag-based extraction
 ### Website: [thegreatestbooks.org](https://thegreatestbooks.org/)
-To extract a list of the greatest books of all time (n=300)
+To extract a list of the greatest books of all time (n=300) compiled on the "thegreatestbooks.org" website.
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/471b01c40da12924d810e1dd08d9c876e82c52d8/output/png/web_scraping_the_greatest_books_list.PNG)
 <br> py script: [web_scraping_greatest_books.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/82f69120863f9d890964e995e16f823579f4a48d/src/web_scraping_greatest_books.py)
@@ -18,7 +18,7 @@ csv output: [the_greatest_books_of_all_time.csv](https://github.com/IvoDSBarros/
 
 ### Website: [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
 
-To extract multiple wikipedia tables on the highest grossing concert tours of all time
+To extract multiple wikipedia tables on the highest grossing concert tours of all time.
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/dddf6808d9a33bf2a6a6377ab303e2ea74cc1948/output/png/web_scraping_highest_grossing_tours_list.PNG)
 py script: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/248bbff34e979778b2bb6dfdfc508aae08632250/src/web_scraping_highest_grossing_tours.py)
@@ -32,7 +32,7 @@ https://github.com/IvoDSBarros/web-scraping-use-cases/blob/abf65f957fbf1aee00f59
 
 ## 2. JSON var-based extraction
 ### Website: [www.rollingstone.com](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)
-To extract the Rolling Stone list on the greatest albums of all time
+To extract the Rolling Stone list on the greatest albums of all time.
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/ffc13ea89d83d9c9091c16ed9b132c91dc7695d9/output/png/web_scraping_highest_rs_album_list.PNG)
 <br> 
@@ -46,7 +46,7 @@ csv output: [rs_album_list.csv](https://github.com/IvoDSBarros/web-scraping-use-
 
 ## 3. JSON API-response-based extraction
 ### Website: [developer.nytimes.com](https://developer.nytimes.com/docs/books-product/1/overview)
-To extract data of all hardcover fiction/nonfiction books for all the best sellers lists of the New York Times of the previous 24 months
+To extract data of all hardcover fiction/nonfiction books for all the best sellers lists of the New York Times of the previous 24 months.
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/cbb256b66c6df1a4c45c3860120ba2fe3a905432/output/png/web_scraping_nyt_api_bestsellers_books.PNG)
 <br> 
