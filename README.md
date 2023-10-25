@@ -45,9 +45,15 @@ csv output: [rs_album_list.csv](https://github.com/IvoDSBarros/web-scraping-use-
 </div>
 
 ## 3. JSON API-response-based extraction
-### "thegreatestbooks.org"
-To extract list of the greatest books of all time (n=300)
+### Website: [developer.nytimes.com](https://developer.nytimes.com/docs/books-product/1/overview)
+To extract data of all hardcover fiction/nonfiction books for all the best sellers lists of the New York Times of the previous 24 months
 
-+	"en.wikipedia.org"
-To extract multiple wikipedia tables on the highest grossing concert tours of all time 
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/ffc13ea89d83d9c9091c16ed9b132c91dc7695d9/output/png/web_scraping_highest_rs_album_list.PNG)
+<br> 
+py script: [web_scraping_nyt_api.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/f52b3112944609f1b15d3a92b395734c18000e27/src/web_scraping_nyt_api.py)
+<br>
+csv output: [rs_album_list.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/df881ee5834538e8acb4010b71c94cd879ea19e2/output/csv/rs_album_list.csv)
 
+<div align = "right">    
+  <a href="#overview">(back to top)</a>
+</div>
