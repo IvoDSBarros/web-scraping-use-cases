@@ -11,6 +11,7 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 To extract a list of the greatest books of all time (n=300)
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/471b01c40da12924d810e1dd08d9c876e82c52d8/output/png/web_scraping_the_greatest_books_list.PNG)
+
 py script: [web_scraping_greatest_books.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/82f69120863f9d890964e995e16f823579f4a48d/src/web_scraping_greatest_books.py)
 <br>
 csv output: [top_20_highest_grossing_tours_of_all_time.csv](
