@@ -8,6 +8,7 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 
 ## 1. HTML tag-based extraction
 **website**: [thegreatestbooks.org](https://thegreatestbooks.org/)
+<br>
 **py script**: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/248bbff34e979778b2bb6dfdfc508aae08632250/src/web_scraping_highest_grossing_tours.py)
 
 To extract a list of the greatest books of all time (n=300)
