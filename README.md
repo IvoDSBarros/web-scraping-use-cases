@@ -12,7 +12,7 @@ To extract a list of the greatest books of all time (n=300)
 
 **Website**
 <br>
-![](cases/blob/c61bf10b948a9143cf468d84a4a99e737119ac42/output/png/web_scraping_the_greatest_books_website.PNG)
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/f99bbe24d3d314a644bc87d70cb6863a61e5b1c9/output/png/web_scraping_the_greatest_books_website.PNG)
 
 **Compiled list**
 <br>
