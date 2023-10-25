@@ -7,11 +7,11 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 3. [JSON API-response-based extraction](#3-json-api-response-based-extraction)
 
 ## 1. HTML tag-based extraction
-**website**: [thegreatestbooks.org](https://thegreatestbooks.org/)
+website: [thegreatestbooks.org](https://thegreatestbooks.org/)
 <br>
-**py script**: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/248bbff34e979778b2bb6dfdfc508aae08632250/src/web_scraping_highest_grossing_tours.py)
+py script: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/248bbff34e979778b2bb6dfdfc508aae08632250/src/web_scraping_highest_grossing_tours.py)
 <br>
-**csv output**: [top_20_highest_grossing_tours_of_all_time.csv](
+csv output: [top_20_highest_grossing_tours_of_all_time.csv](
 https://github.com/IvoDSBarros/web-scraping-use-cases/blob/abf65f957fbf1aee00f596609344f6a605f9d4a9/output/csv/top_20_highest_grossing_tours_of_all_time.csv)
 
 To extract a list of the greatest books of all time (n=300)
