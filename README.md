@@ -11,12 +11,10 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 To extract a list of the greatest books of all time (n=300)
 
 **Website**
-<br>
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/f99bbe24d3d314a644bc87d70cb6863a61e5b1c9/output/png/web_scraping_the_greatest_books_website.PNG)
 
 **Compiled list**
-<br>
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/471b01c40da12924d810e1dd08d9c876e82c52d8/output/png/web_scraping_the_greatest_books_list.PNG)
 
