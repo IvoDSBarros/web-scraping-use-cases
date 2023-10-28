@@ -46,7 +46,7 @@ csv output: [rs_album_list.csv](https://github.com/IvoDSBarros/web-scraping-use-
 
 ## 3. JSON API-response-based extraction
 ### Website: [developer.nytimes.com](https://developer.nytimes.com/docs/books-product/1/overview)
-To extract data of all hardcover fiction/nonfiction books for all the best sellers lists of the New York Times of the previous 24 months.
+To extract data of all hardcover fiction/nonfiction books for all the best sellers lists of the New York Times.
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/cbb256b66c6df1a4c45c3860120ba2fe3a905432/output/png/web_scraping_nyt_api_bestsellers_books.PNG)
 <br> 
