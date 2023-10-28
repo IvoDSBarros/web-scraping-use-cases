@@ -10,7 +10,7 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 ### Website: [unesco.org/en](https://whc.unesco.org/en/list/)
 To extract the list of world heritage sites designated by UNESCO.
 
-![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/1312f4c19a1ba9f591127c9847a861f217e5e90e/output/png/web_scraping_unesco_world_heritage_list.PNG)
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/39f4b500047b3396711f01b34e610b5b4137edbc/output/png/web_scraping_unesco_world_heritage_list.PNG)
 <br> py script: [web_scraping_greatest_books.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/82f69120863f9d890964e995e16f823579f4a48d/src/web_scraping_greatest_books.py)
 <br>
 csv output: [the_greatest_books_of_all_time.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/af93556c11b9368bd50a047399c35576408f22bc/output/csv/the_greatest_books_of_all_time.csv)
