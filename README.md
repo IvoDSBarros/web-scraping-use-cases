@@ -31,7 +31,7 @@ csv output: [best_cities_to_live.csv](https://github.com/IvoDSBarros/web-scrapin
 ### Website: [www.rollingstone.com](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)
 To extract the Rolling Stone list on the greatest albums of all time.
 
-![]()
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/d67dcad63b22f5f485eab4f77f8f71d25c615540/output/png/web_scraping_rs_album_list.PNG)
 <br> 
 py script: [web_scraping_rs_500_greatest_albums.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/df881ee5834538e8acb4010b71c94cd879ea19e2/src/web_scraping_rs_500_greatest_albums.py)
 <br>
