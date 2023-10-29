@@ -21,8 +21,7 @@ To extract multiple tables on the world's best cities to live compiled by the Gl
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/eab419e273ec771e89dd3fcde2ee76c2aff7be2a/output/png/web_scraping_best_cities_to_live.PNG)
 <br> py script: [web_scraping_best_cities_to_live.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/b21cee34ba5e76698ab75ebb03ec0c9c3120b280/src/web_scraping_best_cities_to_live.py)
 <br>
-csv output: [top_20_highest_grossing_tours_of_all_time.csv](
-https://github.com/IvoDSBarros/web-scraping-use-cases/blob/abf65f957fbf1aee00f596609344f6a605f9d4a9/output/csv/top_20_highest_grossing_tours_of_all_time.csv)
+csv output: [best_cities_to_live.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/0248486b1c2b254345279cbc452aea91655cc6ec/output/csv/best_cities_to_live.csv)
 
 <div align = "right">    
   <a href="#overview">(back to top)</a>
