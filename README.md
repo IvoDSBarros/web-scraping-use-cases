@@ -11,7 +11,7 @@ The main subject of this repository is web scraping. In a nutshell, four web scr
 To extract the list of world heritage sites designated by UNESCO.
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/39f4b500047b3396711f01b34e610b5b4137edbc/output/png/web_scraping_unesco_world_heritage_list.PNG)
-<br> py script: [web_scraping_unesco_world_heritage_sites.py]()
+<br> py script: [web_scraping_unesco_world_heritage_sites.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/4a81a58d6e6c2117170f977c567af27f5529f3b5/src/web_scraping_unesco_world_heritage_sites.py)
 <br> csv output: [unesco_world_heritage_sites.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/552f127fab518720510ab781ca205d0ed04ba955/output/csv/unesco_world_heritage_sites.csv)
 
 ### Website: [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
