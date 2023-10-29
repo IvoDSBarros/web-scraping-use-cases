@@ -14,9 +14,9 @@ To extract the list of world heritage sites designated by UNESCO.
 <br> py script: [web_scraping_unesco_world_heritage_sites.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/4a81a58d6e6c2117170f977c567af27f5529f3b5/src/web_scraping_unesco_world_heritage_sites.py)
 <br> csv output: [unesco_world_heritage_sites.csv](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/552f127fab518720510ab781ca205d0ed04ba955/output/csv/unesco_world_heritage_sites.csv)
 
-### Website: [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
+### Website: [gfmag.com](https://www.gfmag.com/global-data/non-economic-data/best-cities-to-live?page=1)
 
-To extract multiple wikipedia tables on the highest grossing concert tours of all time.
+To extract multiple tables on the world's best cities to live compiled by the Global Finance magazine.
 
 ![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/dddf6808d9a33bf2a6a6377ab303e2ea74cc1948/output/png/web_scraping_highest_grossing_tours_list.PNG)
 <br> py script: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/248bbff34e979778b2bb6dfdfc508aae08632250/src/web_scraping_highest_grossing_tours.py)
