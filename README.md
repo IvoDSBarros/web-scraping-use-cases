@@ -18,7 +18,7 @@ To extract the list of world heritage sites designated by UNESCO.
 
 To extract multiple tables on the world's best cities to live compiled by the Global Finance magazine.
 
-![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/74cd4d9045090ec36d5edd093307ea6d1121f756/output/png/web_scraping_best_cities_to_live.py)
+![](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/eab419e273ec771e89dd3fcde2ee76c2aff7be2a/output/png/web_scraping_best_cities_to_live.PNG)
 <br> py script: [web_scraping_highest_grossing_tours.py](https://github.com/IvoDSBarros/web-scraping-use-cases/blob/248bbff34e979778b2bb6dfdfc508aae08632250/src/web_scraping_highest_grossing_tours.py)
 <br>
 csv output: [top_20_highest_grossing_tours_of_all_time.csv](
